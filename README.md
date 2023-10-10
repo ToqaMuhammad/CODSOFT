@@ -1,2 +1,2 @@
 # CODSOFT
-Level one of CODSOFT nternship Program
+Level one of CODSOFT Internship Program
